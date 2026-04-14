@@ -4,6 +4,7 @@
 Aplicación desarrollada en Flutter que funciona como una Pokédex interactiva. Permite consultar información de Pokémon en tiempo real utilizando una API, visualizar estadísticas, escuchar su nombre, guardar favoritos y navegar en una interfaz moderna.
 
 ---
+URL: https://github.com/Christopher2005-ui/ProyectoFinal-DSE2.git
 
 ##  Características
 
