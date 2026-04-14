@@ -52,7 +52,7 @@ lib/
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/Christopher2005-ui/ProyectoFinal-DSE2.git
 Entrar al proyecto:
 cd FLUTTERTAREAS o fluttertareas
 Instalar dependencias:
