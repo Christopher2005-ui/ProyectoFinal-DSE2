@@ -54,7 +54,7 @@ lib/
 ```bash
 git clone https://github.com/tu-usuario/tu-repo.git
 Entrar al proyecto:
-cd tu-repo
+cd FLUTTERTAREAS o fluttertareas
 Instalar dependencias:
 flutter pub get
 Ejecutar la aplicación:
